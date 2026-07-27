@@ -1,0 +1,11 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(mkdir -p /tmp_L2_extract)",
+      "Bash(python3 -c ' *)",
+      "Bash(py --version)",
+      "Bash(py \"C:\\\\Users\\\\ALESSA~1\\\\AppData\\\\Local\\\\Temp\\\\claude\\\\c--Users-ALESSANDRO-Documents-GitHub-idr305\\\\18be2b6f-fa27-4ff2-9b87-07ba4fbea13c\\\\scratchpad\\\\add_l2_notes.py\")",
+      "Bash(py -c ' *)"
+    ]
+  }
+}
