@@ -5,7 +5,21 @@
       "Bash(python3 -c ' *)",
       "Bash(py --version)",
       "Bash(py \"C:\\\\Users\\\\ALESSA~1\\\\AppData\\\\Local\\\\Temp\\\\claude\\\\c--Users-ALESSANDRO-Documents-GitHub-idr305\\\\18be2b6f-fa27-4ff2-9b87-07ba4fbea13c\\\\scratchpad\\\\add_l2_notes.py\")",
-      "Bash(py -c ' *)"
+      "Bash(py -c ' *)",
+      "Bash(where pdflatex *)",
+      "Bash(where xelatex *)",
+      "Bash(where latexmk *)",
+      "Bash(where winget *)",
+      "Bash(winget --version)",
+      "Bash(winget search *)",
+      "Bash(winget install *)",
+      "Read(//c/Users/ALESSANDRO/AppData/Local/Programs/**)",
+      "Read(//c/Program Files/**)",
+      "Read(//c/Users/ALESSANDRO/AppData/Local/**)",
+      "Bash(py -c \"import PIL; print\\(PIL.__version__\\)\")",
+      "Bash(py \"C:\\\\Users\\\\ALESSA~1\\\\AppData\\\\Local\\\\Temp\\\\claude\\\\c--Users-ALESSANDRO-Documents-GitHub-idr305\\\\18be2b6f-fa27-4ff2-9b87-07ba4fbea13c\\\\scratchpad\\\\extract_l2.py\")",
+      "Bash(MIKTEX_BIN=\"/c/Users/ALESSANDRO/AppData/Local/Programs/MiKTeX/miktex/bin/x64\" *)",
+      "Read(//c/Users/ALESSANDRO/AppData/Local/Programs/MiKTeX/miktex/bin/x64/**)"
     ]
   }
 }
