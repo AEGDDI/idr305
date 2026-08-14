@@ -1,0 +1,22 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(python3 -c ' *)",
+      "Bash(pdfinfo \"lectures/alex/lecture 1 intro.pdf\")",
+      "Bash(python3 -c \"import pptx; print\\(pptx.__version__\\)\")",
+      "Bash(pip show *)",
+      "Bash(where python *)",
+      "Bash(py -c \"import pptx; print\\(pptx.__version__\\)\")",
+      "Bash(cd \"/c/Users/aldi/Documents/GitHub/idr305\" && cp lectures/L1.pptx lectures/L1_backup_before_additions.pptx && echo done)",
+      "Bash(py -c ' *)",
+      "Bash(mkdir -p /tmp/aleximg)",
+      "Bash(pdfimages -list \"lectures/alex/lecture 1 intro.pdf\")",
+      "Bash(pdfimages -png -f 7 -l 7 \"lectures/alex/lecture 1 intro.pdf\" /tmp/aleximg/korea)",
+      "Bash(pdfimages -png -f 19 -l 22 \"lectures/alex/lecture 1 intro.pdf\" /tmp/aleximg/corr)",
+      "Read(//tmp/**)",
+      "Read(//tmp/aleximg/**)",
+      "Read(//c/tmp/aleximg/**)",
+      "Bash(soffice --headless --convert-to pdf --outdir /tmp/aleximg lectures/L1.pptx)"
+    ]
+  }
+}
