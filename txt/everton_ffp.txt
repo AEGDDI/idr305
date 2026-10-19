@@ -1,0 +1,1832 @@
+# tactiq.io free youtube transcript
+# ROSES243 Szymanski, Reade, Peeters, Singleton: The Economics of Burnley v Everton
+# https://www.youtube.com/watch/LEeoONs0OJQ
+
+00:00:06.160 Okay, welcome everybody to I counted up
+00:00:10.240 our 243rd
+00:00:14.160 Reading online sports and economics uh
+00:00:16.560 sports economics and statistics seminar.
+00:00:19.119 Uh we have a joint presentation today of
+00:00:21.760 which I am one of the presenters
+00:00:23.279 alongside Stefan Samsky. I'm currently
+00:00:26.480 in the process of
+00:00:28.960 sharing my screen so that we can see the
+00:00:32.320 talk. It's joint work as you can see. Uh
+00:00:35.600 hopefully there we go on the slide. Uh
+00:00:38.320 Stefan, myself plus Thomas Peters and
+00:00:42.960 uh Carl Singleton. I will make this into
+00:00:46.559 the full screen.
+00:00:51.680 And then
+00:00:54.800 >> what we'll do is as you'll be able to
+00:00:56.800 see from the first I'll skip on to the
+00:01:00.079 the first uh well you know the title of
+00:01:02.719 a presentation is judging financial fair
+00:01:04.479 play fairly the economics of Burnley
+00:01:06.560 versus Everton and then as you'll see
+00:01:08.960 from the first slide Stefan is going
+00:01:10.720 going to uh do part one the uh the case
+00:01:14.080 itself the background and then I am
+00:01:16.640 going to deliver part two on thinking
+00:01:18.720 about the probabilities associated with
+00:01:21.680 Burnley being relegated in that 2122
+00:01:24.640 season. So Stefan, you can do the co
+00:01:27.439 thing and tell me when to skip on to the
+00:01:29.119 next slide. I will immediately skip on
+00:01:30.640 to your first slide. Uh please do take
+00:01:33.119 it away.
+00:01:34.479 >> Uh thanks James. Um okay, so um just
+00:01:38.320 just a couple of words about this. Um,
+00:01:40.960 the origin of of us writing this paper
+00:01:43.600 together is uh I think Carl and James
+00:01:46.000 originally when this decision came out
+00:01:49.520 contacted each other and said, &quot;This is
+00:01:51.040 weird. What's going on here?&quot; Um, I
+00:01:54.000 think at some point Carl said to me,
+00:01:56.240 &quot;Don't you think this is weird?&quot; And um,
+00:01:59.360 then we sort of contacted Thomas and
+00:02:01.200 said, &quot;This is a bit weird, isn't it?&quot;
+00:02:02.640 And so really it's a it's a sort of a a
+00:02:05.119 view of of all of us that this is that
+00:02:07.439 that what what took place here in this
+00:02:09.840 Burnley Everton case which I'm going to
+00:02:11.680 describe to you was very weird. I full
+00:02:14.879 disclosure I actually did some work for
+00:02:17.680 Everton in the runup to this case taking
+00:02:20.239 place. I did not I was not their expert
+00:02:23.040 witness in the case. I didn't see any of
+00:02:26.080 the documents in the case. The only
+00:02:28.160 thing that I have seen is the online um
+00:02:31.440 redacted uh judgment which is available
+00:02:34.720 online and which is in the references to
+00:02:37.519 um this uh talk. Okay. So what is it
+00:02:41.680 we're talking about? So in the 2015-16
+00:02:45.519 season, the Premier League adopted its
+00:02:48.879 profit and sustainability rules PSR
+00:02:52.720 um which are essentially a version a
+00:02:55.440 version of UEFA's financial fair play
+00:02:58.800 and it it it's most importantly they
+00:03:01.920 permitted clubs to lose up to 105
+00:03:05.280 million pounds. So to exceed
+00:03:09.200 expenses to exceed revenues by £ 105
+00:03:11.360 million over a three-year se uh period
+00:03:14.800 threeseason period as long as this was
+00:03:17.680 covered by secure funding. So in other
+00:03:19.440 words that money was being put into the
+00:03:21.360 club to cover these losses. Um so uh the
+00:03:26.560 a commission of the Premier League found
+00:03:29.360 that over the three season period 201920
+00:03:33.120 to 2122
+00:03:35.519 Everton had breached that limit by 19.5
+00:03:40.239 million pounds in total.
+00:03:43.200 As a result of this breach of the PSR,
+00:03:47.040 the an EA an EPL commission then
+00:03:49.840 punished Everton with a sixpoint
+00:03:53.519 penalty, six point deduction to be
+00:03:56.959 deducted in the 2023 24 season. Um that
+00:04:01.760 had been reduced from 10 points um
+00:04:03.840 following an appeal. Uh next slide
+00:04:06.879 please James.
+00:04:13.120 James.
+00:04:15.519 Yeah, thank you. So, in addition to this
+00:04:19.519 though, um Burnley
+00:04:22.079 lodged a claim against Everton under the
+00:04:26.479 Premier League's rule W.
+00:04:29.919 So what had happened was in the in the
+00:04:32.560 last season in which uh Everton were in
+00:04:35.199 breach the 2122 season, Burnley had been
+00:04:38.880 relegated for the Premier League in 18th
+00:04:40.880 place having won 35 points and Everton
+00:04:44.160 had finished in 16th place on 39 points.
+00:04:48.080 So four points above. So, rule W of the
+00:04:52.800 Premier League permits a club to claim
+00:04:55.600 compensation for damages if there is if
+00:04:59.199 a club has breached the PSR rules. So,
+00:05:02.320 Burnley made such a claim against
+00:05:04.720 Everton. They claimed that in the
+00:05:07.680 counterfactual case where Everton
+00:05:09.759 remained within the spending limits,
+00:05:11.919 Everton would have been relegated, not
+00:05:14.800 Burnley.
+00:05:16.960 Next slide, please.
+00:05:23.919 So this this uh this whole this whole
+00:05:26.560 thing thing has taken place over the
+00:05:28.160 last couple years. So Burnley sued in
+00:05:29.680 2024, there were hearings in 2025 and
+00:05:32.880 the commission's decision was published
+00:05:34.560 in June of this year. So it it's worth
+00:05:37.840 bear in mind that this is in the context
+00:05:40.080 of a large number of these cases coming
+00:05:43.280 to the coming coming up. So bear in mind
+00:05:46.720 that the PSR rules have only been around
+00:05:49.039 for 10 years and yet there have been six
+00:05:52.720 other clubs uh which have been found to
+00:05:55.600 breach the PSR rules uh to date. Um and
+00:06:00.720 of course the most notable the one that
+00:06:02.400 everybody's talking about at the moment
+00:06:03.680 is Manchester City, but by no means the
+00:06:06.000 only one. Um
+00:06:08.960 James, I've lost the slides. You've gone
+00:06:11.840 to full screen.
+00:06:17.280 Jane, see you there.
+00:06:22.800 Hello.
+00:06:24.479 >> We don't see it.
+00:06:26.000 >> I think he can see.
+00:06:29.440 So,
+00:06:30.400 >> James, are you there?
+00:06:33.120 >> James is stuck.
+00:06:35.600 >> Uh,
+00:06:38.880 >> nobody can see the slides at the moment,
+00:06:40.720 right? I think he has some issues
+00:06:43.840 because he he is frozen on the screen.
+00:06:46.880 So
+00:06:48.080 >> I can I can share the slides in his
+00:06:50.000 place maybe. Stefan I have them here as
+00:06:52.080 well.
+00:06:53.199 >> Uh well or I could do that. So it might
+00:06:56.400 be might make more sense if I do that.
+00:06:59.120 >> Yeah.
+00:07:00.560 >> Uh let me um
+00:07:03.520 let me try to do that.
+00:07:42.080 Let's see. Um,
+00:07:45.440 so I'm sharing now. Can you see them?
+00:07:48.560 >> Yes, we can see them perfectly.
+00:07:51.280 >> Okay. Okay. So, let me So, where was I?
+00:07:54.800 Yes. So, I was just talking about how
+00:07:57.039 how many of these cases there have been.
+00:07:59.199 So, not only have there been cases in
+00:08:01.599 the Premier League, but there have been
+00:08:03.199 eight cases in the English Football
+00:08:05.440 League. Um, you'll notice two of those
+00:08:07.520 cases involve the same clubs because
+00:08:10.479 their case was transferred when they
+00:08:13.039 were relegated from the Premier League
+00:08:14.639 to the English Football League. Um and
+00:08:17.440 in the Manchester City case, which is
+00:08:19.440 everybody's talking about at the moment,
+00:08:21.199 um Manchester United, Arsenal and
+00:08:23.840 Liverpool have all and Tottenham
+00:08:26.400 actually have indicated that they will
+00:08:27.840 sue
+00:08:29.520 are likely to sue Manchester City um in
+00:08:33.440 the same way that Burnley has sued
+00:08:35.279 Everton. Um, and as you may be aware,
+00:08:38.399 the squad cost rule has replaced the PSR
+00:08:41.760 rules in this season, but that doesn't
+00:08:45.920 change the um threat of um pursuing
+00:08:50.880 claims for compensation, though you
+00:08:53.279 could do that still under the new squad
+00:08:55.600 cost rule.
+00:08:59.040 So, what I need to explain a little bit
+00:09:01.600 is the concept of damages in English
+00:09:04.160 law. And for economists, this is going
+00:09:06.160 to I'm afraid this is going to seem a
+00:09:08.240 little strange. So the logic of damages
+00:09:12.720 is straightforward. Under English common
+00:09:15.040 law and in most legal jurisdictions, a
+00:09:18.000 plaintiff can recover financial damages
+00:09:20.080 for breach of contract. Uh it's worth
+00:09:22.800 pointing out that this is similar to the
+00:09:24.560 idea of a negligence case. So you breach
+00:09:27.040 the contract is similar to uh failing to
+00:09:30.720 fulfill an obligation to somebody else.
+00:09:33.920 And in the in English law, you must do
+00:09:36.480 two things to win a case for breach of
+00:09:39.680 contract for damages under breach of
+00:09:41.920 contract. Um, one is you must establish
+00:09:44.640 what's called causation in the law.
+00:09:47.680 Meaning, and that means that in the
+00:09:49.600 counterfactual world where the breach or
+00:09:52.000 the negligence didn't occur, there would
+00:09:54.560 have been no harm to the plated. And
+00:09:58.480 then if you can establish that causation
+00:10:01.279 then the court decides on what's called
+00:10:03.920 quantum which is just the amount the
+00:10:06.560 money amount of damages to be to be
+00:10:09.040 paid. Okay. So those are the two
+00:10:10.959 elements.
+00:10:12.480 Um
+00:10:21.519 that what's weird about English law is
+00:10:24.079 the way in which um the counterfactual
+00:10:29.279 uh the causation element is established.
+00:10:32.240 So the equation at the top there
+00:10:34.000 describes the rule. So the damages are
+00:10:38.079 calculated as the difference between the
+00:10:41.440 value to the plaintiff if there were no
+00:10:45.120 harm minus the value that they uh had
+00:10:49.519 would have had it w they they received
+00:10:52.880 under the harm
+00:10:55.360 and but that only applies if the
+00:10:58.480 probability under the counterfactual of
+00:11:01.120 no harm is greater than 50%. In other
+00:11:05.279 words, it was as as the phrase in
+00:11:08.160 English law is, it was more likely than
+00:11:10.640 not that there would have been no harm.
+00:11:14.160 So essentially, you have to establish
+00:11:16.079 that there more likely than not there
+00:11:18.000 would have been no harm under the
+00:11:19.760 counterfactual and if so you receive the
+00:11:23.519 entire damages caused by the difference
+00:11:26.079 between the harm you received and what
+00:11:28.640 you would have had if there had been no
+00:11:30.160 harm.
+00:11:31.760 So that is I would say completely at
+00:11:34.399 odds to what an economist would would
+00:11:36.880 think of as damages which would be u
+00:11:41.279 equation two on this slide which is
+00:11:45.120 essentially a calculation of expected
+00:11:47.360 value. The damages would be the
+00:11:50.399 difference in the probability of the
+00:11:54.240 outcome of of no harm versus uh under of
+00:11:58.880 no harm under the counterfactual
+00:12:01.200 compared to what actually happened times
+00:12:04.079 the damages. So in other words, it's a
+00:12:06.480 probabilistic calculation. It's how
+00:12:08.639 likely is it? How much did things change
+00:12:11.040 in probability and multiplied by the
+00:12:14.720 quantum the amount of harm done
+00:12:23.040 and this English standard gives rise to
+00:12:25.600 some real problems and some real weird
+00:12:27.839 results. So the famous one or a famous
+00:12:30.399 one in English law is called Greg vcott
+00:12:32.959 in 2005. So Greg was misdiagnosed by his
+00:12:38.320 doctor. He had a cancer which the doctor
+00:12:42.079 failed to diagnose
+00:12:44.800 and that diagnos which meant that the
+00:12:46.880 act the diagnosis was actually delayed
+00:12:49.200 by one year.
+00:12:51.360 So a year later he discovers that he has
+00:12:53.200 the cancer. So what this has done is
+00:12:55.279 this has changed his probability of
+00:12:57.680 survival. Um, and it was agreed on all
+00:13:00.959 sides in this case that Greg's
+00:13:02.959 probability of survival had fallen from
+00:13:05.600 42%
+00:13:07.279 if in the counterfactual where he had
+00:13:09.920 would receive the diagnosis on a timely
+00:13:12.800 basis to 18% when he actually received
+00:13:16.959 the diagnosis. And neither side in the
+00:13:18.959 case argued about these numbers.
+00:13:21.920 But Greg lost his case. He got no
+00:13:24.959 damages because the under the rule it
+00:13:29.920 was not more likely than not under the
+00:13:32.240 counterfactual that he would have
+00:13:34.959 suffered no harm. In other words, it was
+00:13:37.600 he had a less than 50% probability of
+00:13:40.880 survival even if he'd been diagnosed
+00:13:44.480 uh for 10 year probability of survival
+00:13:47.440 and therefore there were no damages to
+00:13:50.160 be paid. And I think to most people that
+00:13:53.519 seems like a completely unfair uh and un
+00:13:58.240 uh unjust result. But that is the
+00:14:01.600 consequence of the English law. That's
+00:14:02.959 not a mistake. That's the courts
+00:14:04.880 acknowledged that this was the way the
+00:14:07.839 way this was the right outcome legally
+00:14:11.040 even if the judges recognized that most
+00:14:13.600 people the person in the street would
+00:14:16.560 recognize this as being unfair.
+00:14:19.839 Now the judges justified this by saying
+00:14:22.639 that the this high bar would essentially
+00:14:26.000 it's a high bar against frivolous game.
+00:14:27.600 So you imagine you know if I had a one
+00:14:31.440 tenth of 1% probability of losing $10
+00:14:34.880 billion
+00:14:36.880 then actually that might be a claim
+00:14:39.360 worth pursuing because even though the
+00:14:41.360 probability is low the qu the amount is
+00:14:44.320 large. So if I were allowed to claim on
+00:14:46.480 the base of expected damages, that would
+00:14:49.120 give rise to a lot of frivolous law
+00:14:51.120 cases. That's that's one justification
+00:14:53.519 for this standard. So it raises the bar
+00:14:56.320 um to have this um more likely than not
+00:14:59.360 standard of uh under the counterfactor.
+00:15:02.800 Um
+00:15:04.399 the other argument I think is more
+00:15:06.000 interesting is that the court presented
+00:15:07.680 was that there is sort of there's a
+00:15:10.000 difference between inherent uncertainty
+00:15:12.560 and just ignorance. So in the in the
+00:15:15.519 Greg v. Scott case um nobody really
+00:15:19.360 knows exactly what um Greg's probability
+00:15:22.959 of survival was
+00:15:25.440 really is a reflection of a lack of
+00:15:27.279 medical knowledge. We just don't have
+00:15:28.880 the exact knowledge. In a in a world
+00:15:30.959 where you had um better medical
+00:15:34.000 knowledge, you would be able to pin down
+00:15:36.240 these um the these quantities with some
+00:15:39.600 certainty.
+00:15:41.199 Um
+00:15:43.199 and so whereas so it this should only in
+00:15:48.079 in general th the the court argued that
+00:15:51.199 this it was better to allow this was the
+00:15:54.000 right standard. The more likely not
+00:15:55.440 standard works better
+00:15:58.160 when there is not inherent uncertainty.
+00:16:01.440 But uh this is a very controversial
+00:16:04.079 doctrine in English law and there are
+00:16:06.160 quite a few papers been written by legal
+00:16:09.040 scholars about why this is wrong and how
+00:16:12.959 why something should be done about it
+00:16:14.399 and even the judges themselves accept
+00:16:16.480 that this is this is problematic.
+00:16:22.560 And oddly enough in English law there is
+00:16:25.199 actually a better way of doing this and
+00:16:27.040 there is a there is a precedent a case
+00:16:30.000 um Chaplain B. Hicks from 1911 which is
+00:16:33.199 the facts are slightly weird but
+00:16:34.880 nonetheless make very clear a different
+00:16:37.680 way of approaching this. So Hicks was uh
+00:16:41.600 ran some kind of publication and he
+00:16:44.160 offered to he asked uh invited women to
+00:16:47.519 send him pictures and he said he would
+00:16:49.920 enter them in a beauty contest if he
+00:16:51.600 deemed them pretty enough. And um
+00:16:54.800 Chaplain this chaplain actually sent him
+00:16:56.959 a picture and he said yes that that's
+00:16:59.199 pretty enough for me. You can I will
+00:17:01.360 enter you in this competition but then
+00:17:02.959 he just forgot to do so and so she sued
+00:17:06.400 for damages. She said she'd lost the
+00:17:09.599 chance to compete in this beauty contest
+00:17:12.559 and could have won the prize. Now, you
+00:17:15.760 can see there that the uncertainty
+00:17:17.760 relating to this is inherent.
+00:17:20.480 It's not possible to know whether Miss
+00:17:22.640 Chaplain would or would not have won
+00:17:24.480 this prize with certainty. She she
+00:17:26.959 might, she might not. That's and we'll
+00:17:28.880 never know. It would it's not a it's not
+00:17:30.880 a an uncertainty that can be resolved
+00:17:33.200 with better knowledge.
+00:17:35.280 Nonetheless, she still won her court
+00:17:37.600 case and was paid damages. She the
+00:17:40.400 damages payable to her reflected the uh
+00:17:44.880 the value of the prize that she could
+00:17:47.120 have won, but the award was adjusted to
+00:17:50.880 allow for the fact that it was only a
+00:17:53.120 probability,
+00:17:54.640 not a certainty. So that's a different
+00:17:57.840 standard which I would argue we argue is
+00:18:02.080 the one that fits the football case as
+00:18:04.960 well. The uncertainty of outcome
+00:18:07.280 hypothesis of course is one of the
+00:18:09.440 founding
+00:18:11.120 uh concepts of sports economics and
+00:18:13.919 probably one of the few things we all
+00:18:15.520 agree on as sports economists that there
+00:18:17.919 is inherent and that's another way of
+00:18:20.000 saying uncertainty of outcome is just
+00:18:21.520 another way of saying there is inherent
+00:18:23.440 uncertainty in football contests.
+00:18:26.720 So the harm caused to Burnley was not
+00:18:31.120 caused by Everton, if there was a harm,
+00:18:33.440 was not that Burnley was relegated, but
+00:18:36.799 the increased probability that Burnley
+00:18:40.320 would be relegated. And that distinction
+00:18:42.320 is really central. And so equation three
+00:18:45.039 here is just rewriting the expected
+00:18:47.760 value of Burnley's uh of of the damages
+00:18:53.039 that would be should be payable to
+00:18:54.640 Burnley assuming that Everton's acts
+00:18:58.880 increased the probability that Burnley
+00:19:01.760 uh that Burnley would be relegated. Um
+00:19:04.960 and the the the the legal term for this
+00:19:08.000 is loss of chance. So basically Burnley
+00:19:11.600 suffered a loss of chance and that loss
+00:19:14.880 of chance is presumably is the right
+00:19:17.120 principle to apply when thinking about
+00:19:20.080 cases uh involving uh in all of these
+00:19:23.760 kind of financial fair play squad cost
+00:19:26.720 cases
+00:19:28.640 providence sustainability rules. um
+00:19:31.280 because it's only ever a loss of a
+00:19:33.919 chance that a team suffers as a result
+00:19:37.840 of a breach of the regulations by
+00:19:40.320 another team.
+00:19:43.280 So what actually happened the Burnley
+00:19:45.840 decision made by the commission uh which
+00:19:48.799 we say is was erroneous that the
+00:19:51.919 commission decided that it was in fact
+00:19:54.160 more likely than not that ele Everton
+00:19:57.120 would have been relegated in place of
+00:19:58.880 Burnley
+00:20:00.480 um
+00:20:02.160 uh under the counterfactual and in fact
+00:20:04.799 Burnley's experts presented uh a data
+00:20:08.000 analysis to say that that probability
+00:20:10.320 lay between 51% % and 70%.
+00:20:14.000 Um, and the and the commission accepted
+00:20:17.360 this evidence. Um, so as a result of
+00:20:21.840 this, Everton was liable for the entire
+00:20:25.120 difference in the value to Burnley of
+00:20:28.400 remaining in the Premier League minus
+00:20:30.720 the the value that they received from uh
+00:20:33.919 as a result of being uh being relegated.
+00:20:38.799 So the quantum there the size of the
+00:20:41.200 damages was calculated based on
+00:20:43.520 basically a measure of profitability
+00:20:45.919 ebitar earnings before interest tax
+00:20:48.240 depreciation and amortization plus net
+00:20:51.039 player trading and that quantum as
+00:20:54.880 determined by the trib uh the commission
+00:20:57.440 was 35 million. So in other words, there
+00:21:00.720 was no probability applied to this. It
+00:21:03.200 was just um Everton were responsible for
+00:21:06.960 the full loss of uh of Burnley as a
+00:21:11.679 result of being relegated in in essence
+00:21:14.480 saying the only reason that Burnley was
+00:21:16.480 relegated was because of Everton. There
+00:21:18.559 was no other reason for its relegation.
+00:21:23.039 Now that that that seems to me that I
+00:21:26.000 think that just can't be right. So in
+00:21:27.600 other words, the the probability that
+00:21:29.679 Burnley were relegated in the real world
+00:21:32.960 was not one um conditional on Everton
+00:21:36.960 spending. Um in reality, the actions of
+00:21:40.799 all the other clubs contributed to the
+00:21:43.600 outcome that Burnley was relegated.
+00:21:47.520 There were 18 other clubs who were
+00:21:50.960 playing against Burnley uh in the in
+00:21:53.679 that season and the games between
+00:21:56.240 Burnley and those other teams all
+00:21:58.000 contributed to Burnley being relegated.
+00:22:01.520 And indeed in fact there is precedent
+00:22:03.760 for this in English courts if the loss
+00:22:08.320 of chance uh I if the if the outcome
+00:22:11.840 depends not just on the actions of the
+00:22:14.720 defendant Everton in this case but also
+00:22:17.600 third parties which in this case are the
+00:22:20.159 other 18 Premier League clubs then the
+00:22:23.919 the courts will tend to apply a loss of
+00:22:27.039 chance logic and will adjust the damages
+00:22:30.240 for the prob probability that of this
+00:22:32.880 outcome occurring which is what should
+00:22:34.880 have happened here. There should have
+00:22:36.240 been some adjustment for the probability
+00:22:39.280 that um that Burnley would have been
+00:22:42.159 relegated even if even with Everton's um
+00:22:46.960 overspent
+00:22:49.760 and in fact in that season everybody
+00:22:52.640 knew that it was not unlikely that
+00:22:54.640 Everton would be that Burnley would be
+00:22:56.559 relegated. So the betting odds uh bet
+00:22:59.280 MGM had them betting odds at 23% for
+00:23:02.320 relegation points bet at 29% odds
+00:23:05.280 checker at 29%. So there was actually a
+00:23:07.919 pretty strong consensus that amongst the
+00:23:10.080 Premier League clubs Burnley was one of
+00:23:12.400 the most likely
+00:23:14.559 um teams to be relegated.
+00:23:17.600 So what we're going to do in the rest of
+00:23:20.000 this paper, what James is going to do if
+00:23:21.760 he's with us um is to go through and you
+00:23:25.919 are good. That's go through and explain
+00:23:29.840 um what how how we have calculated the
+00:23:36.320 uh the the increase in Burnley's
+00:23:39.200 relegation probability
+00:23:41.679 arising from Everton's excess spending
+00:23:45.760 in the 2122 season. We're not going to
+00:23:49.039 consider the quantum. So we're not going
+00:23:50.400 to go into that calculation. We're just
+00:23:52.000 going to assume that the accountants got
+00:23:53.520 all that right and that that's that's
+00:23:54.799 that's the right thing. We're just
+00:23:56.480 concerned with the probabilities.
+00:23:59.919 So with that, I'm going to hand over to
+00:24:02.480 James.
+00:24:03.840 >> Great. Thanks, Stefan. I'm sorry that my
+00:24:06.480 computer decided to crash whilst I was
+00:24:08.880 sharing the slides and obviously I get
+00:24:10.960 disrupted things a little while ago.
+00:24:13.120 Yeah, if you unshare yours, I'll reshare
+00:24:15.039 mine and hopefully Okay, my computer
+00:24:17.200 don't crash again,
+00:24:19.919 right?
+00:24:23.039 Obviously,
+00:24:30.240 it's always it's always tough to follow
+00:24:31.919 on from Stefan in any kind of uh
+00:24:34.480 situation. So, I have that envable task.
+00:24:37.919 Um but what we're uh going to do is as
+00:24:40.720 Stefan said, we're going to move to the
+00:24:43.200 method uh you know to calculate uh these
+00:24:47.279 probabilities involved. And so, as is
+00:24:50.960 often the case, mine is the technical uh
+00:24:53.279 side of things. I'm going to turn this
+00:24:54.480 into a full screen.
+00:24:59.520 And so, we'll we'll talk through a bit
+00:25:00.720 of notation. Uh first of all, just to
+00:25:02.799 kind of set the scene. Uh this will be
+00:25:04.559 second nature to I think everyone who's
+00:25:06.080 in the audience. Um but we're we're
+00:25:07.919 thinking about a model to try and
+00:25:09.200 estimate um the the cumulative
+00:25:11.919 probability distribution uh of team I
+00:25:14.080 finishing at least as high as a
+00:25:15.919 particular position in the league table.
+00:25:18.320 Uh so in this case we're we're concerned
+00:25:20.400 about um
+00:25:22.960 uh a team finishing uh above uh position
+00:25:25.679 18. So f of 17 in the notation in
+00:25:28.400 equation four there where we're looking
+00:25:30.240 at the probability uh that team I
+00:25:32.720 finishes in position k uh and f of one
+00:25:36.640 will be uh winning the title. So we're
+00:25:38.480 looking fundamentally to to get to this
+00:25:40.880 uh beast by the end of our exercise. And
+00:25:43.360 of course, as we all know because we
+00:25:44.799 watch uh football seasons unfold, uh
+00:25:47.360 these are phenomenally complex um
+00:25:50.960 combinations of uh well 380 football
+00:25:53.520 matches uh teams uh participating all
+00:25:56.640 sorts of decision- making going into it.
+00:25:58.880 um the point systems uh all the other
+00:26:01.279 kinds of rules etc which make it
+00:26:03.360 sufficiently complicated that uh the
+00:26:05.760 kind of method that we employ here a
+00:26:07.279 simulation method really is about the
+00:26:09.760 only way that you can really I think
+00:26:11.360 begin to uh get a grasp on that inherent
+00:26:14.400 uncertainty that Stefan mentioned.
+00:26:18.320 So, we're thinking about um aspects of
+00:26:21.360 of the league table because of course we
+00:26:22.960 have to construct league tables if we're
+00:26:24.880 going to um think about um the outcomes
+00:26:28.320 of league seasons. Uh as we know uh
+00:26:31.440 teams will gain a certain number of
+00:26:34.080 points, three points for a win, one
+00:26:36.080 point for a draw. They're going to score
+00:26:38.480 uh goals, GI we've just called them
+00:26:40.720 here, and they're going to concede
+00:26:42.159 goals. The point of just mentioning this
+00:26:44.080 is that there are different levels of
+00:26:46.000 tiebreaker. So if teams finish on the
+00:26:48.240 same number of points uh they will be
+00:26:51.840 separated first by goals uh goal
+00:26:54.480 difference so how many goals more they
+00:26:56.400 scored than the opponents and secondly
+00:26:58.000 by uh the goals scored. Following on
+00:27:00.480 from that uh there are other metrics uh
+00:27:04.320 disciplinary uh records and so on. And
+00:27:06.400 this starts to get us to the point where
+00:27:08.400 uh we go so far in terms of um our model
+00:27:11.600 uh but only that only that far. we go to
+00:27:13.360 that third uh tiebreaker after points uh
+00:27:16.320 goal difference uh and goals scored. Uh
+00:27:18.640 and we're looking uh as said to estimate
+00:27:20.720 the probability the pro estimate
+00:27:22.480 probabilities that teams finish in
+00:27:24.720 particular positions and hence above
+00:27:26.799 certain other positions. We've added a
+00:27:29.760 conditional term in the uh in the in the
+00:27:33.120 notation here where WI is team I's wage
+00:27:36.799 bill or salary bill and W minus I is the
+00:27:40.559 salary bill of all other teams in the
+00:27:43.200 league league.
+00:27:45.279 Uh and we also uh we we don't uh
+00:27:47.760 discount the fact that there are lots of
+00:27:49.360 other decisions uh that are taking place
+00:27:52.000 uh in in football clubs uh when it comes
+00:27:55.039 to uh the determination of of outcomes
+00:27:58.399 uh in games. Um but for now uh we focus
+00:28:01.520 on um wages um not least because that's
+00:28:05.120 a big part of or spend because that's a
+00:28:07.520 big part of what the case was related
+00:28:09.520 to.
+00:28:11.279 So including both the salary bill of the
+00:28:13.919 club uh and all of its uh opponents is
+00:28:17.440 another um central uh sporting uh uh
+00:28:21.039 sports economics concept namely that the
+00:28:22.960 team team success depends on the results
+00:28:25.919 of competitors. Uh this has been shown
+00:28:29.200 um uh in the English leagues number of
+00:28:32.240 papers including uh p couple of papers
+00:28:34.559 that Stefan uh was involved there in 97
+00:28:36.880 and 2002 uh and has been shown uh across
+00:28:40.240 Europe again Stefan with uh Thomas in a
+00:28:43.279 2014 paper. A given wage bill produces a
+00:28:46.880 higher league position on average or
+00:28:49.679 would be expected to uh if all rivals
+00:28:52.480 spend less. If all of my will spend
+00:28:54.159 more, then that given wage bill will
+00:28:55.760 deliver a lower league position.
+00:28:59.200 And these wage bills provide this basis
+00:29:01.440 for our count.
+00:29:07.840 >> I think that James is stuck again.
+00:29:11.679 >> Oh no,
+00:29:16.880 >> we lost James.
+00:29:18.960 Yeah, I think he would need to restart
+00:29:21.840 his computer again.
+00:30:01.039 I'm sending him a message, but um
+00:30:04.559 assume he knows that this has happened.
+00:30:11.039 Yeah. So, he's just left us. Yeah, he he
+00:30:14.799 just restarts his computer now. So,
+00:30:23.200 >> this is where we really need an
+00:30:24.399 advertising break. We need some adverts
+00:30:26.720 or something.
+00:30:31.360 >> We can wait. All presentation.
+00:30:33.919 >> Yeah. All presentation is so interesting
+00:30:37.440 that we can clearly wait for him.
+00:30:42.240 >> Well, that's good. Yeah, there would be
+00:30:44.240 be sad if people left now. The best is
+00:30:46.799 about to come.
+00:32:01.760 I'm on mute. Hi everyone. There we go.
+00:32:03.760 Now you can hear me. Um,
+00:32:06.000 >> yes, we can hear you now.
+00:32:09.039 >> Thanks. Uh, thank you everyone for your
+00:32:11.200 patience.
+00:32:12.799 My computer has chosen now to decide
+00:32:15.279 it's going to crash repeatedly on me.
+00:32:17.519 So, we'll I'll give it a go. Uh again,
+00:32:21.600 uh sharing my screen uh and presenting
+00:32:24.480 the rest uh of what we've been uh what I
+00:32:27.440 was talking through so far. I have to
+00:32:30.559 find the slides now as well.
+00:32:35.440 Okay, it should be the case then that I
+00:32:37.279 can share director to here.
+00:32:44.399 Done a good job of building up the
+00:32:45.840 tension though. I'd say that's
+00:32:49.120 people now on the edge of their seats.
+00:32:53.360 >> Yeah. Yeah. Not totally sure that that's
+00:32:57.360 a good thing necessarily.
+00:33:00.399 Navigate myself now back to page.
+00:33:05.840 Okay. And you can all see my methodology
+00:33:08.320 slide 17. Hopefully.
+00:33:10.799 >> Great.
+00:33:12.559 Hopefully we get through the rest of
+00:33:14.080 this before it crashes again. So the
+00:33:16.559 point is that we use wage bills to
+00:33:18.320 provide the basis for a counterfactual
+00:33:20.159 analysis and we'll spend some time
+00:33:21.919 talking you about how we might try and
+00:33:23.840 get out a robust relationship between
+00:33:25.600 wages and outcomes factoring in
+00:33:27.840 conditioning on all the other uh
+00:33:29.919 influences on football match outcomes.
+00:33:32.480 Uh and then once we've done that, we'll
+00:33:34.159 try and uh we'll we'll play around with
+00:33:36.559 changing uh the team wage bill uh
+00:33:39.200 holding all other factors fixed in a
+00:33:41.440 classic uh counterfactual uh type
+00:33:44.559 approach.
+00:33:47.039 Okay, so again running through stuff
+00:33:48.480 that we all uh that we all know uh
+00:33:50.480 points accumulated on wins and draws in
+00:33:52.159 the season uh and teams play each other
+00:33:54.080 in the Premier League twice uh meaning
+00:33:56.320 38 games for each team uh and 380 games
+00:34:00.559 in total.
+00:34:02.799 uh and we sum up the points uh from
+00:34:05.279 match outcomes uh that we generate
+00:34:07.200 according to uh our simulation method
+00:34:09.280 and I'll we'll talk more about how we do
+00:34:11.520 that uh in a second but suffice to say
+00:34:14.079 uh that we'll be thinking about
+00:34:15.599 probabilities of finishing particular
+00:34:17.440 league positions given wage bills uh and
+00:34:20.480 given also uh all other factors uh that
+00:34:23.359 may uh we may uh believe uh affect match
+00:34:26.320 outcomes. We want to try and uh control
+00:34:28.639 for those uh that influence match
+00:34:30.480 outcomes. uh but that are separate from
+00:34:32.719 the impact uh of the wage bill so that
+00:34:34.879 we can uh plausibly um uh adjust the
+00:34:39.199 wage bill um without thinking about that
+00:34:42.239 therefore uh influencing uh other
+00:34:44.560 factors that are in the model and
+00:34:45.839 complicating the causality.
+00:34:50.000 We will choose a uh a common uh set of
+00:34:54.320 models uh goal arrival models
+00:34:56.960 popularized by mayor from 1982 and Dixon
+00:35:00.079 and Coohl's in 97 which are plus on
+00:35:03.359 regression models for uh goals arrival
+00:35:06.480 goals. Uh we usually think about home
+00:35:08.160 goals uh and away goals. Uh and then we
+00:35:11.760 once we've done once we've once we've
+00:35:13.599 done that once we've modeled um goal
+00:35:16.160 arrival this way uh we then use uh that
+00:35:19.440 model to generate uh outcomes
+00:35:22.320 probabilities or outcomes and then
+00:35:23.599 outcomes consistent with those
+00:35:24.880 probabilities
+00:35:26.800 which is a class of models uh that's
+00:35:28.720 been studied extensively in the
+00:35:29.920 literature uh and uh those associated
+00:35:33.760 with uh the origin of the models Dixon
+00:35:35.599 and Coohl's have gone on to work
+00:35:36.880 extensively in uh but making and in the
+00:35:38.880 football industry themselves.
+00:35:41.520 So we assume that goals uh for the home
+00:35:43.520 team and the away team follow some kind
+00:35:45.040 of pluson distribution with some uh
+00:35:48.320 expected goal uh parameter lambda uh
+00:35:51.839 distinct for the home team and the away
+00:35:53.359 team where we allow uh the um uh the
+00:35:57.040 home team to enjoy a home advantage
+00:35:59.280 according to gamma uh and the expected
+00:36:02.000 goals for the home team in a match
+00:36:03.359 between team I and J would be uh
+00:36:06.000 reflective of the attacking strength and
+00:36:07.599 def of the of the home team and the
+00:36:09.839 defensive strength of the away team. Uh
+00:36:12.079 and conversely, the uh expected goals
+00:36:14.480 for the away team would be equivalent to
+00:36:15.920 the attacking strength of the away team
+00:36:17.359 and the defensive strength of the home
+00:36:19.280 team.
+00:36:21.920 Uh we then use estimates uh or we
+00:36:24.400 estimate that model uh generate
+00:36:25.839 estimates for these expected goal
+00:36:27.599 parameters and then we generate uh match
+00:36:29.839 outcomes by drawing from a plus on
+00:36:32.000 distribution uh with um expect with with
+00:36:34.800 with a lambda parameter uh as so uh
+00:36:37.520 distinct for uh each match in a given
+00:36:39.920 season uh given um uh given um the
+00:36:45.359 explanatory variables that we've put
+00:36:46.880 into our model. We do that uh lots of
+00:36:50.240 times. We simulate many many seasons
+00:36:52.320 100,000 seasons which is also the number
+00:36:55.200 uh that was generated uh in the models
+00:36:57.599 presented in the Burnley via case. Uh
+00:37:00.480 and once we've done that, we can start
+00:37:02.000 thinking about distributions and
+00:37:03.520 frequentist uh probabilities,
+00:37:05.599 frequentist estimates uh for things like
+00:37:08.320 uh the probability a team finishes in a
+00:37:10.000 particular position uh and the
+00:37:12.480 probability that they therefore avoid
+00:37:14.320 relegation or are relegated.
+00:37:18.560 What we do in terms of our model, we try
+00:37:20.640 and establish for it its robustness. Uh
+00:37:22.960 and as mentioned, we're going to
+00:37:24.160 introduce wage bills into the model. We
+00:37:26.960 introduced the wage bill essentially as
+00:37:28.960 so uh in equations 11 and 12 where we
+00:37:31.920 allow uh the wage bill of the home team
+00:37:34.720 uh to translate into
+00:37:38.160 uh into goals for the home team uh by uh
+00:37:41.440 parameter um that uh moves uh with each
+00:37:45.520 team. So we allow uh we essentially
+00:37:47.440 interact uh dummies uh for uh each team
+00:37:51.599 the identity of each team with their
+00:37:53.359 wage bill and so we allow the efficiency
+00:37:55.520 with which uh teams convert uh salary
+00:37:59.040 pounds of salary into uh goals. Uh again
+00:38:02.640 we allow that to be different for the
+00:38:03.920 home team and the away team. Uh and we
+00:38:06.320 have a home uh advantage parameter in
+00:38:08.480 there as well. And so we do we do this
+00:38:11.599 we estimate uh
+00:38:14.640 uh and then we generate and we and we we
+00:38:16.640 we simulate what the season should have
+00:38:18.160 looked like uh in this particular case
+00:38:19.680 for 2122.
+00:38:21.760 Uh and then for the counterfactual uh we
+00:38:24.320 reduce Everton's wage spend by that 19.5
+00:38:27.280 million that was mentioned earlier on.
+00:38:29.839 Um there are arguments in the case about
+00:38:32.079 whether that 19.5 should have been over
+00:38:34.079 one season or three seasons. Uh it was
+00:38:36.480 adopted as all in the final season uh in
+00:38:38.880 the case. uh and that's what we do uh
+00:38:40.960 here as well.
+00:38:43.280 So in terms of uh establishing that the
+00:38:45.839 model that we've generated uh is is
+00:38:48.560 fairly good. The first stage is to look
+00:38:50.160 at what the output of that model uh
+00:38:52.800 looks like. This is um one way in which
+00:38:56.880 we uh choose to express that. These are
+00:39:00.400 the probabilities of home win outcomes
+00:39:03.040 over uh 24 seasons. So what we do is we
+00:39:05.520 don't just look at the single season the
+00:39:07.119 2122 season. uh we've applied this model
+00:39:09.920 over all the seasons for which we have
+00:39:11.839 uh salary data. So that's 2001 through
+00:39:15.040 to 2025. So 24 seasons uh and about
+00:39:19.119 9,000 football matches. And so we're
+00:39:21.520 looking at these matches and we're
+00:39:22.560 saying well our model says that there's
+00:39:25.040 a say 40% chance of the home team
+00:39:28.320 winning. Of those kinds of matches where
+00:39:30.079 there's a 40% chance of the home team
+00:39:31.680 winning, how often does the home team
+00:39:33.440 win? And we've got three plots here. one
+00:39:35.920 for the home win, one for the draw, and
+00:39:37.440 one for the away win. And what we see is
+00:39:40.160 that with the home win, um oh actually
+00:39:43.839 with all three of them, we're close to
+00:39:45.440 the 45 degree line, which is where we'd
+00:39:47.599 like to be because that says that if our
+00:39:49.200 model is saying a game has a 40% chance
+00:39:52.000 of turning out to be a home win, it
+00:39:54.000 turns out to be a home win uh 40% of the
+00:39:56.320 time, saying 60% 80%. draw looks a bit
+00:39:59.680 strange because the draw uh there's
+00:40:01.200 rarely uh ever well there's never a
+00:40:02.880 probability of the draw uh above about
+00:40:05.520 35 36% representing how often uh draws
+00:40:08.720 occur.
+00:40:10.400 Uh but even within that narrow range
+00:40:12.960 we're still quite close to that 45
+00:40:14.960 degree line. Uh and the model on a match
+00:40:18.079 level uh appears to be capturing the
+00:40:20.320 uncertainty associated with matches uh
+00:40:23.359 pretty effectively. the lie we're closer
+00:40:26.000 to the 45 degree line in the range of
+00:40:28.560 probabilities where most games lie which
+00:40:30.560 is this kind of space here. The home
+00:40:32.240 team wins about 40% of the time. Uh and
+00:40:35.119 again when the draw is about 20% likely
+00:40:37.680 uh and the away win about 25 to 30%
+00:40:40.800 we're very close to uh the 45 degree
+00:40:43.040 line. So the model uh as with uh lots of
+00:40:45.760 these kinds of models the the model uh
+00:40:47.680 in terms of generating match outcomes
+00:40:49.839 isn't you know is pretty good. is pretty
+00:40:52.400 robust.
+00:40:54.640 What does it then tell us about uh
+00:40:56.880 outcomes uh projecting over the whole
+00:40:59.520 season? So 380 matches uh over a whole
+00:41:02.720 season. What does this then tell us? And
+00:41:04.480 it's worth us just you know looking at
+00:41:05.680 this so that we can decide whether we
+00:41:07.200 think uh the model is doing a half
+00:41:09.520 decent job of then projecting up to uh
+00:41:11.599 entire seasons if it's doing even if
+00:41:13.200 it's doing uh individual matches. Well,
+00:41:16.319 and this is a similar kind of plot.
+00:41:19.760 Okay, so this is on the horizontal axis
+00:41:22.560 the prediction by the model uh which
+00:41:25.119 position the team is going to finish in.
+00:41:26.800 Uh and then this is the average outcome.
+00:41:30.720 Okay, so we're taking all the
+00:41:32.560 predictions uh of fifth place and then
+00:41:35.680 we're saying that on average teams that
+00:41:36.880 are predicted to finish in fifth place,
+00:41:38.880 well they finish in about seventh place.
+00:41:42.400 uh we're doing reasonably okay uh
+00:41:45.839 through the middle uh of of the of the
+00:41:48.079 of the league and then it flattens out a
+00:41:50.960 little bit uh here 15th place uh and
+00:41:53.359 teams uh averaging uh a slightly higher
+00:41:56.160 position. The teams would project to be
+00:41:58.480 in 20th place uh while they're finishing
+00:42:01.280 uh on average in 15th. What this doesn't
+00:42:04.319 tell us I'm going to see if it takes me
+00:42:05.920 Yeah, there we go. So that takes me to
+00:42:08.880 uh essentially these are box and whisker
+00:42:10.960 plots which gives a bit more of a sense
+00:42:12.240 of the distribution. I showed you the
+00:42:13.760 mean on that last slide. And so this
+00:42:15.839 line here, well this line's the median,
+00:42:17.280 sorry, but the mean is not a million
+00:42:19.200 miles from the median here. Um what this
+00:42:22.319 tells you is that the 45 degree line,
+00:42:24.240 the red line uh is within the
+00:42:25.839 distribution uh pretty much the whole
+00:42:27.839 way. So here we've got we project a team
+00:42:30.079 to finish in 20th and by and they're
+00:42:33.359 finishing uh in that whole range. saw
+00:42:35.760 from 19th uh up to 12th, which is not
+00:42:38.720 entirely unexpected given uh that these
+00:42:40.880 are essentially predictions being made
+00:42:42.560 uh in advance of the season even being
+00:42:45.200 played. Uh and we all know about uh
+00:42:47.040 these kinds of longerterm forecasts uh
+00:42:49.359 that often uh turn out quite badly. Um
+00:42:53.920 bless you. Uh often don't turn out as
+00:42:56.560 well as as might be hoped.
+00:43:00.560 No.
+00:43:50.240 I think that James is stuck again.
+00:43:56.800 >> Yes, we lost him again.
+00:43:58.160 >> Yeah, he looked like he was there for a
+00:43:59.520 while, but now he seems to be gone.
+00:44:01.920 >> Yeah.
+00:44:03.119 >> Oh, he does simply I don't know.
+00:44:09.839 I don't think we can do anything other
+00:44:11.200 than wait for him to come back on.
+00:44:14.640 He knows I wanted to present these
+00:44:16.880 things.
+00:44:18.319 >> We will wait for him.
+00:44:20.480 >> No worries.
+00:46:01.920 Okay, we got the hat trick. I'm very
+00:46:04.160 sorry. I am back again. I am trying to
+00:46:08.560 make sure nothing can get in the way of
+00:46:11.920 I don't quite know what's continually
+00:46:13.760 crashing my computer,
+00:46:18.000 but rapidly closing
+00:46:22.079 everything else that could be opened
+00:46:23.920 down to see if we can get through to the
+00:46:25.599 end without another
+00:46:28.400 crash.
+00:46:30.160 Thank you for your patience and I do
+00:46:32.079 apologize for building suspense. I'd
+00:46:34.319 rather rather not build uh build any
+00:46:37.040 suspense.
+00:46:40.319 Uh okay. So I will now
+00:46:44.800 again try and share my slides.
+00:47:05.680 And so let's try and go through uh
+00:47:08.240 quickly from here. Uh I've hopefully
+00:47:09.920 convinced you that um the model uh
+00:47:12.480 delivers a reasonable job uh of
+00:47:14.240 predicting end of season outcomes.
+00:47:16.319 >> We're not seeing James. We're not seeing
+00:47:17.920 the slide. We're seeing your
+00:47:20.480 >> um
+00:47:22.720 I wonder what shared then.
+00:47:24.960 >> What were you seeing? Just blackness.
+00:47:26.640 We're seeing black.
+00:47:28.160 >> No, we saw it was your um Windows
+00:47:31.200 Explorer.
+00:47:33.200 >> We we saw your folder structure.
+00:47:36.480 >> Oh, that must have been very exciting.
+00:47:40.079 All right, then. Uh, let me I'll take it
+00:47:43.200 out of full screen. It may be that by
+00:47:46.000 not looking at it in full screen that
+00:47:47.760 might somehow reduce the effort that my
+00:47:51.599 computer has to go to.
+00:48:00.960 >> Yep, that's it.
+00:48:02.720 >> Great. Okay. So, we've gone through uh
+00:48:05.440 robustness
+00:48:08.560 uh
+00:48:11.280 and so then we can start we can look at
+00:48:13.359 the season in question. Okay. So, uh
+00:48:17.200 what I'll do first of all is I'll show
+00:48:18.720 you um what uh that means what what what
+00:48:23.280 our simulations uh mean uh for points
+00:48:28.640 outcomes in the season. So here what
+00:48:30.880 we've got is we've got the simulated
+00:48:32.400 points outcomes for the season. Again,
+00:48:35.760 these are um box and whisker plots. Uh
+00:48:39.599 so you've got the interquartile range uh
+00:48:42.079 that's colored in with the thick uh line
+00:48:45.119 being the median and then the upper and
+00:48:48.000 lower quartiles. uh and then you've got
+00:48:50.400 outliers uh presented uh as as these
+00:48:54.240 dots and the range uh I think it's 95%
+00:48:57.599 uh range is the dashed lines but the the
+00:49:00.720 majority of the simulations we have
+00:49:02.960 points uh in this range the blue line uh
+00:49:06.400 is the actual simulation
+00:49:09.760 uh so simulated 100,000 times giving us
+00:49:11.839 a probability uh or giving us a
+00:49:13.920 probability distribution and the
+00:49:15.200 distribution here of points totals so
+00:49:17.520 you can see mans points totals The
+00:49:19.280 median is about 85 points. Uh with
+00:49:22.559 seasons where they're getting over 100
+00:49:24.319 points, Liverpool pretty high, median
+00:49:26.559 80, United uh low 70s. Tottenham,
+00:49:31.040 Chelsea, Arsenal, Leicester, Brenford,
+00:49:34.400 and Everton here right in the middle of
+00:49:36.640 the table. Okay, the blue one is the
+00:49:38.960 actual because we then simulated a count
+00:49:42.240 factoral
+00:49:43.760 uh where we have uh taken 19.5 million
+00:49:47.440 pounds off their salary spend for the
+00:49:49.839 season. What you can see is that they
+00:49:51.760 are the team uh that is affected. So
+00:49:54.800 their counterfactuals, we've got two
+00:49:57.440 counter factors here. As you can see, it
+00:49:59.680 actually doesn't really make a practical
+00:50:01.440 difference. Certainly not from Everton's
+00:50:03.200 perspective. Um, one of them, uh, the
+00:50:06.160 orange one is where we reimulate every
+00:50:08.559 single match in the season. So, all 380
+00:50:10.720 matches, we reimulate them, uh, with
+00:50:12.800 Everton's reduced salary bill. The pink
+00:50:15.520 one is where we only reimulate the
+00:50:18.000 matches that Everton took part in. The
+00:50:20.319 idea being, well, Everton the only team
+00:50:22.480 affected uh, and so we only look at
+00:50:24.559 their matches against every other team.
+00:50:26.800 Okay, practically speaking, it doesn't
+00:50:28.400 make very much difference. What you can
+00:50:29.920 see is that Everton have suffered be
+00:50:32.559 spending less money. they get fewer
+00:50:34.240 points. Uh I'll put a number on that uh
+00:50:36.319 in a moment.
+00:50:38.880 Uh and then what you can see is we all
+00:50:40.319 the way down to Norwich were by some way
+00:50:43.200 the most likely team to be relegated and
+00:50:45.119 indeed were. Watford were expected to be
+00:50:47.440 relegated. I think they were as well. Uh
+00:50:49.520 and a few other teams down here at the
+00:50:51.200 bottom, Crystal Palace, Southampton and
+00:50:53.280 Burnley.
+00:50:55.440 Okay. Uh and so that's uh simulated
+00:50:58.559 points outcomes.
+00:51:00.960 Uh and then in terms of those those
+00:51:03.440 differences, what that means is uh about
+00:51:06.880 two uh two and a half points for
+00:51:08.880 Everton. Everton lose this point, this
+00:51:11.119 this chart is basically saying Everton
+00:51:13.680 lose two uh two and a halfish points and
+00:51:17.200 those points that Everton have lost well
+00:51:19.599 they're distributed uh according uh
+00:51:22.000 accordingly across all the rest of the
+00:51:24.079 teams in the division.
+00:51:27.119 Um and I think I'll just see it's slide
+00:51:32.079 up. I hope. Yeah. And so this is an a
+00:51:34.720 way of looking that in terms of
+00:51:36.160 probabilities. Okay. The probability uh
+00:51:39.200 change uh for a team um
+00:51:44.800 no so points uh
+00:51:47.440 percentage point difference. Sorry. This
+00:51:48.960 is the the percent the chance of being
+00:51:50.880 relegated. My apologies. Evidence chance
+00:51:53.200 of being relegated increases by 3
+00:51:55.359 percentage points.
+00:51:57.200 uh in the counterfactual. So if they
+00:51:58.880 spend 19.5 million pounds less, their
+00:52:01.839 probability of getting relegated
+00:52:03.119 increases by 3%. Uh Burnley's decreases
+00:52:06.240 by about half a percent and so does
+00:52:08.000 Palace's Watfords. Uh they just decrease
+00:52:10.720 by different differing amounts. It's
+00:52:12.400 worth noting because obviously teams are
+00:52:14.000 in different places uh in the league.
+00:52:16.079 Whether you're relegated or not depends
+00:52:17.359 on whether you uh happen to get enough
+00:52:18.880 points uh score enough goals and finish
+00:52:21.200 above other teams. These dotted lines
+00:52:24.079 are confidence intervals uh calculated
+00:52:26.960 uh based on um
+00:52:29.520 uh on the simulation. Uh and so uh what
+00:52:32.480 we have is that obviously Everton's uh
+00:52:34.400 difference is very significant uh as is
+00:52:37.359 Burnley's and Palace and Watford's
+00:52:39.359 Southampton's as well. And the rest are
+00:52:40.960 kind of uh borderline in terms of their
+00:52:43.359 statistical significance. Obviously it's
+00:52:45.520 not affecting teams up at the top of the
+00:52:47.280 table in terms of their relegation
+00:52:48.720 because their chances of relegation is
+00:52:50.319 zero. Uh anyway, and so then we can uh
+00:52:55.920 I'm just trying to move this thing
+00:52:57.760 that's in the way. There we go. We've
+00:52:59.119 then got a table here for what that uh
+00:53:01.119 means in terms of uh points uh in the
+00:53:03.839 actual season and the counterfactual
+00:53:05.599 season. So you've got Everton getting
+00:53:07.599 about 49 points and losing those two and
+00:53:10.000 a bit points, two and a halfish points.
+00:53:12.319 Uh Burnley uh not really affected
+00:53:14.319 though. They're getting about 0.1 uh
+00:53:16.000 more point on average, but that's well
+00:53:17.839 within the standard deviation, which is
+00:53:19.599 seven points.
+00:53:21.280 position-wise, Everton
+00:53:23.839 12th and dropping a position was losing
+00:53:25.839 those points. Uh, and again, Burnley uh
+00:53:28.559 not really uh not really affected uh by
+00:53:31.359 this.
+00:53:35.359 And I've already uh hinted at those
+00:53:37.359 probabilities uh of relegation. I jumped
+00:53:39.680 ahead there. These are all of the
+00:53:41.359 probabilities of relegation.
+00:53:43.599 Norwich uh we had at 94% to be
+00:53:46.240 relegated. Watford at 60%, Palace at
+00:53:49.040 32%, Southampton at 26% and then Burnley
+00:53:52.160 at 22%. So well within, given we're
+00:53:54.240 looking at the whole season without
+00:53:55.440 using the information we have, you know,
+00:53:57.440 after the event, well within the range
+00:53:59.599 of those probabilities that we showed
+00:54:01.200 you from book makers at the time,
+00:54:03.920 Everton uh are down here at a 3% uh
+00:54:06.960 chance of being relegated uh jumping to
+00:54:09.520 6% uh in the counterfactual and you see
+00:54:11.920 that there's small changes. Paradise go
+00:54:15.200 down from 32% to 31%. Ever Burnley are
+00:54:18.960 going down from 21.9% to 21.4%. So half
+00:54:23.280 half a percentage point.
+00:54:29.359 Uh that's taking me back to the wrong
+00:54:30.800 place. And so what that means is we can
+00:54:32.800 then revisit um the calculations. uh
+00:54:38.160 uh Stefan talked about the commission uh
+00:54:40.960 and the uh the commission's uh way of
+00:54:43.760 arriving at uh damages where essentially
+00:54:46.319 assumed that in the actual event the
+00:54:47.839 probability was one uh that were
+00:54:51.280 relegated and the counterfactual uh was
+00:54:53.760 zero because of that balance of
+00:54:55.119 probabilities cut off around 50%.
+00:54:58.720 On the other hand, what we have uh
+00:55:01.359 rather is uh a 22 or 21.9% chance
+00:55:04.960 they're relegated in the actual uh state
+00:55:07.280 of the world and a 21.4% chance that
+00:55:09.920 they're relegated in the counterfactual.
+00:55:11.520 So a relatively small difference and so
+00:55:14.400 then going back to that calculation for
+00:55:16.160 economic damages that Stefan talked you
+00:55:18.079 through uh that comes down to.175
+00:55:21.200 million rather than 35 million taking
+00:55:23.599 the 35 million quantum as given. Uh and
+00:55:27.200 so that leaves us with a a quite
+00:55:28.880 substantial
+00:55:30.400 uh difference. And I think at this point
+00:55:32.640 we have a conclusion slide. At this
+00:55:34.720 point I'm going to invite Stefan to come
+00:55:36.559 back in not least because my computer
+00:55:37.920 might crash uh again but Stefan please
+00:55:40.559 do uh step back in.
+00:55:43.040 >> Um thanks James. Yeah so um we're making
+00:55:47.839 two arguments in this uh paper right. So
+00:55:51.280 first is the the the the legal issue
+00:55:53.599 that I dealt with uh at the beginning
+00:55:55.839 which is saying that the the methodology
+00:55:57.920 is essentially wrong. The right way to
+00:56:00.640 think of the impact of B everon's
+00:56:05.839 overspend on Burnley is not to think of
+00:56:08.880 it as having directly caused uh
+00:56:11.760 Burnley's relegation but through
+00:56:15.040 Burnley's loss of a chance. In effect,
+00:56:18.240 it reduced uh the probability that
+00:56:21.920 Burnley would survive. That's a
+00:56:23.599 reasonable conclusion. And the question
+00:56:25.599 should be by what amount? That is uh
+00:56:29.040 logical within the framework of um
+00:56:32.480 mainstream economics, logical within the
+00:56:35.680 framework of thinking about how
+00:56:38.559 uncertainty or outcome works and
+00:56:40.640 competition works. And we think that
+00:56:43.599 this is something that uh and and is
+00:56:47.040 actually consistent with English law in
+00:56:50.000 cases where um loss of a chance is
+00:56:53.119 recognized. So we think in future and
+00:56:56.079 this is and the point is this is
+00:56:57.440 important going forward because there
+00:56:59.680 almost certainly going to be many more
+00:57:01.200 cases like this and in those cases it's
+00:57:04.000 important that commissions tribunals or
+00:57:07.040 courts make s re uh decisions which are
+00:57:11.839 based on uh sensible economic realities.
+00:57:16.240 Um
+00:57:18.319 but in the in the in in this specific
+00:57:20.720 case we'd say that the the estimates
+00:57:24.559 that the likely effect of of Everton on
+00:57:29.280 of Bley Everton's actions on Burnley's
+00:57:31.520 relegation probability are just so
+00:57:35.599 extraordinarily out of line with what
+00:57:40.079 economic theory would suggest is
+00:57:42.079 plausible that this this particular
+00:57:44.640 decision needs to be re-examined. Um the
+00:57:49.760 effect of uh Everton's overspend on
+00:57:53.520 Burnley's relegation probability is just
+00:57:57.200 tiny. And um even if you made it 10
+00:58:00.880 times bigger than we say it is based on
+00:58:03.920 our modeling, it's still tiny. and the
+00:58:07.680 the the gap between the the the the the
+00:58:12.240 probabilistic effect of Everton on
+00:58:14.480 Burnley versus the 100% attribution of
+00:58:19.119 causation to Everton is just way too
+00:58:23.200 large um to be a credible uh to to to to
+00:58:30.319 be something that one could ignore. Then
+00:58:32.079 this needs to be revisited and
+00:58:34.160 reconsidered. Um so those are our two
+00:58:36.799 two main arguments uh in this paper and
+00:58:39.760 um we look forward to uh comments
+00:58:43.599 um suggestions and maybe even
+00:58:46.160 criticisms.
+00:58:51.280 Great. Thanks Stefan. We do have the uh
+00:58:56.000 requisite half hour for questions and
+00:58:58.319 comments. Uh so Richard go ahead
+00:59:06.799 like me you are mute.
+00:59:11.839 Sorry that's better. Thanks very much to
+00:59:14.640 James and Stefan. Very very interesting.
+00:59:17.280 Um my question is if the um if the
+00:59:21.440 difference is tiny then why did Everton
+00:59:24.559 do it in the first place? What what
+00:59:27.200 reason did they have for committing that
+00:59:29.520 overspend? Because I do believe they
+00:59:31.200 knew in advance that they were violating
+00:59:33.760 the rules. They were warned, I believe,
+00:59:36.720 by the Premier League before they
+00:59:38.640 engaged in the transfer activity that
+00:59:41.119 took them over the edge. Um, so why did
+00:59:43.599 they do it if the if it made basically
+00:59:46.640 no difference to their probability of
+00:59:48.799 survival?
+00:59:51.520 >> That's a really good question. Um, so I
+00:59:54.640 I think the an important point here is
+00:59:57.040 that it did make a difference to
+00:59:58.559 Everton. And I think I think it's it's
+01:00:00.480 wrong to say where it was it was a a
+01:00:03.440 non-existent effect for Everton. Um,
+01:00:06.799 James showed that the estimates
+01:00:08.880 increased Everton's probability of
+01:00:11.599 survival by 3% which is which is not
+01:00:14.880 nothing. And I think that's the
+01:00:16.799 explanation as to why they did it. And
+01:00:19.040 then I think the important point of this
+01:00:20.960 analysis is that
+01:00:23.520 where although the effect can be
+01:00:26.960 significant for the club in question
+01:00:29.359 which is which is committing the
+01:00:32.480 overspend
+01:00:34.079 um that effect then has to be divided by
+01:00:38.400 19 to get the essentially to calculate
+01:00:41.839 the effect on everybody else and that's
+01:00:43.839 where it becomes negligible. So yes, it
+01:00:46.960 affects Burnley's probability, but only
+01:00:50.960 with its 1119th share of that um total
+01:00:55.040 effect, and that's why it's that's why
+01:00:56.720 it's not significant. So it made sense
+01:00:58.960 for Everton to to to commit this
+01:01:01.760 overspend without this necessarily
+01:01:04.480 having a substantial effect on Burnley's
+01:01:06.880 chances.
+01:01:13.839 Thanks, Richard.
+01:01:18.000 more questions and comments
+01:01:30.319 and hi thank you very much for for the
+01:01:32.720 presentation. It was really really
+01:01:34.160 interesting and
+01:01:36.079 uh particularly timely. So thank you for
+01:01:38.640 that. Um my question is could you also I
+01:01:43.040 know it's not the case that Burnley race
+01:01:46.400 but could you also consider measuring
+01:01:49.599 the the potential
+01:01:52.880 extra value that they would have get if
+01:01:55.680 they had finished uh
+01:01:58.720 18 uh 17th and so on and like aggregate
+01:02:02.559 that because maybe the probability of
+01:02:05.040 them finishing 15 was diminished.
+01:02:08.000 finishing 14 was diminished and so on
+01:02:10.160 and so forth and so maybe the
+01:02:11.920 accumulation of that would be a bigger a
+01:02:15.280 larger number but yeah it's just an idea
+01:02:20.960 >> yeah I mean I guess you have the
+01:02:23.200 different amounts of money given out for
+01:02:24.960 the positions in the premier leading
+01:02:27.440 don't you um and I don't know whether
+01:02:29.599 that and you know my recollection of the
+01:02:32.000 the discussion within the published
+01:02:33.760 verdict about the quantum um I don't
+01:02:36.000 know whether that was taken into
+01:02:37.520 account, but I know that there was a lot
+01:02:38.720 of discussion about how big that
+01:02:41.040 financial sum should be that you then
+01:02:42.720 apply uh a probability to. Um, but yeah,
+01:02:46.480 I think as as Stefan said, we're kind of
+01:02:48.960 absolving ourselves of that bit
+01:02:51.280 certainly in this in this application of
+01:02:52.880 the method because we're just really
+01:02:54.720 thinking about the probability, you
+01:02:57.119 know, the difference in the
+01:02:58.000 probabilities um rather than necessarily
+01:03:00.240 the amount that would be awarded. I
+01:03:02.000 don't know if that is kind of what you
+01:03:04.319 were getting at and Stephan might want
+01:03:05.680 to chip in as well.
+01:03:09.520 Yeah. No, I think it's a good point and
+01:03:11.040 I so I think one could think about so I
+01:03:13.760 I think one thing we should do is
+01:03:15.760 actually just draw the distribution of
+01:03:18.319 possible outcomes
+01:03:20.319 um for both clubs and and possibly for
+01:03:23.440 all clubs and illustrate uh and then we
+01:03:26.319 can look at we can use different revenue
+01:03:28.559 figures to see what the expected value
+01:03:30.960 is. Um I I mean simp I mean simply in
+01:03:34.559 this case it wasn't the question that
+01:03:36.319 the commission was was was looking at
+01:03:38.240 and so that's why we didn't look at it
+01:03:39.680 here but I think you so and there is a
+01:03:42.799 bigger point here to say so if you read
+01:03:44.960 through um the decisions of these
+01:03:47.200 commissions so bear in mind for all I
+01:03:49.760 mentioned at the beginning how many of
+01:03:51.359 these uh decisions they've been under
+01:03:53.440 the PSR rules both in the Premier League
+01:03:55.920 and the football league and in each of
+01:03:57.680 these cases there is a there is a there
+01:04:00.319 is a judgment which is generally is
+01:04:02.559 published online. So you can you can
+01:04:04.079 look it up and see what was said. And
+01:04:06.240 one of the things they always they one
+01:04:08.000 of these things they've tended to say in
+01:04:09.839 all of these things is um when it's come
+01:04:12.480 to bear in mind that they mostly
+01:04:15.039 imposing points penalties is that
+01:04:18.079 they're saying well we got to make up a
+01:04:20.000 points penalty but it's really hard to
+01:04:21.920 know what what what the real effect was.
+01:04:24.640 We can't really judge that. It's it's
+01:04:26.880 you know it could have been anything. We
+01:04:28.720 we just don't know. And one of the
+01:04:31.200 things I think is that one of the things
+01:04:32.559 the Burnley case has done is it's forced
+01:04:34.880 these commissions and tribunals to start
+01:04:37.359 actually thinking a little bit more
+01:04:39.839 seriously about this and saying well
+01:04:41.839 maybe we can quantify these things. And
+01:04:44.319 I think what we're trying to do here is
+01:04:46.160 say, you know, yeah, not only can we, we
+01:04:50.319 have long had the tools to do this. And
+01:04:53.760 so we can we can answer all of these
+01:04:56.240 questions in expectation and fairly
+01:04:58.880 accurately. I mean, that's that's the
+01:05:00.720 thing. These are not these as as as
+01:05:03.039 James showed, these are fairly robust uh
+01:05:05.760 estimates and and we can do all of this.
+01:05:07.599 And so I think to to expand the analysis
+01:05:11.280 to think of all of these counterfactuals
+01:05:14.079 in a world where these legal cases are
+01:05:17.119 going to keep on coming. Um I think I
+01:05:20.240 think that's something that we can
+01:05:21.599 usefully do and I think it's something
+01:05:23.200 for all of us as sports economists to
+01:05:25.200 focus on and to debate. Um because I I
+01:05:29.680 think the lawyers need us to do this for
+01:05:32.400 them.
+01:05:35.760 They don't know it yet.
+01:05:40.319 >> I think I think they've got a fair idea
+01:05:42.480 actually. I think I think they I think
+01:05:44.559 they've got the message a little bit.
+01:05:46.480 But I think again I think part of it is
+01:05:48.240 this is sort of going to shake out over
+01:05:50.319 over the coming years as as is often the
+01:05:52.240 case. I mean if you if I think about the
+01:05:54.319 similar thing is sort of for example um
+01:05:57.200 in the United States in antitrust and
+01:06:00.720 the issue of the whether leagues are
+01:06:03.760 single entities or not there's now quite
+01:06:06.160 a lot of legal juristp prudence in the
+01:06:08.799 US which is built on the work of
+01:06:11.359 economists people like Roger null and
+01:06:14.000 Rodfort and Andy Zindelist and you know
+01:06:16.559 these people through their expert
+01:06:18.960 testimony as economists framed the
+01:06:22.559 decision- making and frame the way in
+01:06:25.440 which the leagues operate now in terms
+01:06:28.720 of you know what the the the the uh what
+01:06:31.920 they can do and what they can't do
+01:06:33.520 within the antitrust laws and I think
+01:06:35.359 we're in a sort of an analogous
+01:06:36.720 situation here where
+01:06:38.960 there will need to be if we're going to
+01:06:40.960 go into this world where we're going to
+01:06:42.960 litigate what would have been if you
+01:06:45.440 hadn't done this then you know we are
+01:06:48.400 going to have to as economists we are
+01:06:51.039 the ones is best equipped to conduct
+01:06:53.359 this analysis. Well, the economist,
+01:06:54.960 statistitians generally, I would say,
+01:06:56.720 you know, we are the ones who should be
+01:06:58.480 doing this and I think the courts will
+01:07:02.559 and the lawyers will recognize that and
+01:07:04.480 will come to adopt it if we present
+01:07:08.079 sensible arguments.
+01:07:13.760 I think it's also worth emphasizing that
+01:07:15.760 as you probably saw Mark Hans this isn't
+01:07:17.599 a complicated model uh relatively
+01:07:19.680 speaking compared to the kinds of things
+01:07:21.359 that people uh do put together um it
+01:07:24.799 really is a very basic model in that
+01:07:26.559 respect um yeah so we definitely have
+01:07:29.359 the tools and we've had the tools for a
+01:07:30.720 long time uh to make contributions and
+01:07:32.960 and like you say perhaps the pen the
+01:07:34.720 penalty should be uh should have been
+01:07:36.559 three points rather than six points uh
+01:07:38.640 and it seems certainly a little bit
+01:07:40.880 disproportionate that the original
+01:07:42.240 recommendation was for 10 points uh as
+01:07:44.559 the uh as the penalty in Everton's case.
+01:07:48.799 Jorge, you've got your hand up.
+01:07:54.079 >> Hello, James and Stefan.
+01:07:57.440 I just have one question. Should we
+01:07:58.960 worry? If I if I recall one of your
+01:08:01.200 first slides after the simulations, you
+01:08:03.680 got this H you know the the the
+01:08:07.760 predicted position versus the actual
+01:08:09.440 position and since we are talking about
+01:08:13.039 relegation if I recall well
+01:08:16.799 the the the actually actually the the
+01:08:19.920 most disparity between predicted and
+01:08:22.319 actual was for the relegation positions.
+01:08:25.759 So I don't know if we should worry about
+01:08:28.080 this the fact that you know it's
+01:08:29.600 precisely the the position that we
+01:08:31.359 matter that kind of the simulations go
+01:08:33.600 off. I don't know how much that would
+01:08:36.479 matter for for actually a court case
+01:08:39.759 which is what you're thinking about.
+01:08:44.158 I
+01:08:44.319 >> mean I'll give a first answer then
+01:08:46.158 Stefan can give a a followup. Um what I
+01:08:49.198 would say is I think um you know it's
+01:08:51.759 it's reasonably within the range when
+01:08:53.679 you think about relegation because you
+01:08:55.439 know that that distribution uh covered
+01:08:57.520 the relegation places of the actual
+01:08:59.279 turnouts uh for the teams that were
+01:09:01.279 predicted to finish uh right at the
+01:09:03.439 bottom. Now the other thing to really
+01:09:04.960 say is that as as I said a moment ago
+01:09:07.040 it's a very simple model. you know, we
+01:09:08.880 don't include um a whole sway of other
+01:09:12.960 things that we might uh think might
+01:09:14.640 matter. And we're we're reluctant to
+01:09:16.319 because of course we don't want to
+01:09:17.520 necessarily um tangle up things in terms
+01:09:20.880 of the you know the kind of the
+01:09:22.080 causality from the change in wage
+01:09:24.238 spending and what other downstream
+01:09:26.080 things that might affect on the way
+01:09:27.439 through to to to footballing
+01:09:29.439 performance. And on top of that, um,
+01:09:31.759 there's an issue with the indogenity of
+01:09:33.120 wages in the first place since, um, you
+01:09:35.520 know, teams that are successful are
+01:09:36.880 paying more in terms of wage bonuses.
+01:09:39.198 Um, and so as a result, you know, it may
+01:09:41.198 well be that that slope in the first
+01:09:42.719 place that we're looking at because of
+01:09:44.158 the impact of the bonuses at the top
+01:09:45.759 end, you know, what the slope that we're
+01:09:47.439 getting is steeper than it should be. So
+01:09:49.120 actually, we're getting a bigger um, you
+01:09:51.920 know, I think, you know, the bias works
+01:09:55.040 in the right way. if I can uh if I can
+01:09:57.040 remember exactly. Thomas had a much
+01:09:58.719 better way of explaining this uh earlier
+01:10:00.880 on. Um but I mean I think I think you're
+01:10:02.800 right uh to point uh that disparity uh
+01:10:06.320 that end out. But also I think you know
+01:10:08.320 the other thing that we're kind of keen
+01:10:09.520 to emphasize with this is the extent of
+01:10:12.080 that uncertainty uh over such a long
+01:10:14.719 season. Those were those were fairly uh
+01:10:17.040 large ranges. uh and we had uh a
+01:10:20.080 decision made on you know quite precise
+01:10:23.679 numbers that didn't appear to
+01:10:24.960 necessarily be taking into account the
+01:10:26.719 degree of uncertainty that there is.
+01:10:31.360 >> Yeah. Yeah, I mean I so Thomas's point
+01:10:34.320 was one about the indogenity was was um
+01:10:39.280 based on our paper in in economic policy
+01:10:42.159 in 2014 on financial fair play where in
+01:10:45.679 that stimulation exercise we took into
+01:10:49.120 account the effect that um
+01:10:54.320 known overspending would have on the
+01:10:57.360 other clubs. So the question is what
+01:10:59.040 what what do the reaction functions look
+01:11:01.040 like? So if I know that you're going to
+01:11:04.080 spend a lot of money, does that mean
+01:11:06.080 that I then cut back my expenditure
+01:11:08.239 because it's just not worth it? Because
+01:11:10.000 I know that even if I spend more, I'm
+01:11:12.159 not going to have a chance. Um and I
+01:11:14.239 think that's where um I think uh what um
+01:11:18.880 by by by not taking that into account I
+01:11:21.760 think we are in some sense then uh
+01:11:24.480 overstating
+01:11:26.000 um the effect not not understating the
+01:11:28.480 effect. Um but I think it's but I think
+01:11:32.000 that that kind of strategic interaction
+01:11:34.400 can could be significant. And when it
+01:11:38.239 comes to Manchester City, and I think
+01:11:39.840 everybody's thinking about Manchester
+01:11:40.960 City in the background here, if it comes
+01:11:42.400 to Manchester City, that that kind of
+01:11:44.719 consideration might play a role. But
+01:11:46.800 what again what we found in 2014 was
+01:11:49.440 that that actually there was next to no
+01:11:52.800 difference. It would it was these second
+01:11:55.520 order effects were really second order
+01:11:58.159 and very very small. Um but they are
+01:12:00.800 worth thinking about.
+01:12:05.360 Thanks for back to Richard.
+01:12:08.719 >> Thank you James. I'd like to rephrase my
+01:12:10.960 earlier question in view of the answer
+01:12:12.640 that you gave me. Um so um from from
+01:12:17.199 Everton's perspective, if the penalty
+01:12:20.000 they were going to have to pay was
+01:12:21.440 peanuts, which I believe is what the
+01:12:23.360 model is, my understanding what model is
+01:12:25.199 predicting should have been the case,
+01:12:27.440 then surely it was an absolute
+01:12:28.800 no-brainer for them to get a 3%
+01:12:31.199 advantage in staying in the Premier
+01:12:33.440 League because the other benefits of
+01:12:35.280 staying in the Premier League would be
+01:12:36.560 massive.
+01:12:39.360 >> Oh, again that's a really sharp and very
+01:12:41.760 good question. So again my my my my view
+01:12:45.920 on that would be to say that and this
+01:12:48.239 this comes to back to to to these the
+01:12:51.760 nature of these decisions right so most
+01:12:54.960 as all all the decisions except all of
+01:12:58.080 the all of the all of the litigation
+01:13:01.199 apart from this Burnley Everton case has
+01:13:05.199 been about
+01:13:07.440 um
+01:13:09.360 uh has been about imposing a points
+01:13:11.920 penalty. Y on teams that breach the
+01:13:14.080 regulations. Um and so uh so that that
+01:13:20.400 those points penalties are the
+01:13:22.800 punishment for breaking the rules.
+01:13:26.239 And you know as as as we speak there the
+01:13:29.440 the commission is considering what
+01:13:32.719 punishment to impose on Manchester City
+01:13:36.159 for its breach of the regulations and
+01:13:38.560 those punishments are so the qu so okay
+01:13:41.679 one question is what is punishment for?
+01:13:43.679 Why do we punish people for breaking the
+01:13:45.920 rules? Well, we punish them. There are a
+01:13:48.080 number of reasons why we might think
+01:13:49.760 about doing that. We might think about
+01:13:51.280 it as being some kind of um deterrence.
+01:13:55.440 We might think of some kind of
+01:13:57.040 retribution. We might think of some kind
+01:13:59.679 of um uh restitution. There are sort of
+01:14:03.440 various theories of punishment. And
+01:14:05.440 that's what's going on. But that's what
+01:14:07.360 the sixpoint penalty was about, right?
+01:14:10.000 That it was about that. That was about
+01:14:12.400 punishment.
+01:14:13.600 the Burnley case. And so what we're
+01:14:15.760 discussing here is not about punishment.
+01:14:18.480 This is merely about damages. What harm
+01:14:23.440 did uh Everton caused to Burnley through
+01:14:28.560 its overspending? And so one thing you
+01:14:31.440 could think is well if if you're if you
+01:14:34.400 have these regulations you might the the
+01:14:37.520 punishment function the points deduction
+01:14:40.239 or whatever it is that you do that is
+01:14:42.960 how you deal with the deterrence of
+01:14:45.199 saying to avoid this kind of no-brainer
+01:14:47.360 situation the the the litigation about
+01:14:51.600 the the damages that's nothing to do
+01:14:54.159 with the punishment element of this and
+01:14:56.239 this is going to come up again this is
+01:14:57.760 going to come up with Manchester City
+01:14:58.880 because we are in punishment phase. At
+01:15:01.040 the moment the the the commission is
+01:15:03.120 thinking about what punishment but after
+01:15:05.199 that all um Liverpool, Manchester
+01:15:08.880 United, Arsenal and Tottenham I believe
+01:15:11.760 have all reserve the right to sue
+01:15:15.040 Manchester City for damages and that
+01:15:17.520 would but if that happens that will
+01:15:20.159 happen after
+01:15:22.719 the Premier League has meated out
+01:15:25.040 whatever punishment it's fit for
+01:15:27.199 Manchester City.
+01:15:29.679 Thanks Stephan.
+01:15:32.480 >> Yeah, thanks. I mean both of your points
+01:15:34.400 kind of in my mind make me think of the
+01:15:37.120 kind of this I don't know we a bit of a
+01:15:41.199 saliency bias. We know it did bleed that
+01:15:44.400 season and there we think you know if
+01:15:45.840 they lost a few more points they would
+01:15:47.120 have finished below Burnley but you
+01:15:49.600 that's a very that's a very specific
+01:15:51.280 point in the season and the fact that we
+01:15:52.719 got to that point in the season was 30
+01:15:55.920 previous matches in which all sorts of
+01:15:57.679 different things happen and you know I
+01:15:58.960 think that kind of salency or focus on
+01:16:01.440 the end of the season distorts things a
+01:16:03.679 little bit I think when it comes to
+01:16:04.880 those kinds of calculations and so I
+01:16:07.120 think it's quite it's interesting to
+01:16:09.199 then start to think about well what's
+01:16:11.600 the you know what is the perspective and
+01:16:13.199 it is the whole season and hence I guess
+01:16:14.719 why we've well hence why we've taken the
+01:16:16.400 whole season and simulated uh the whole
+01:16:18.320 season and got the probabilities that
+01:16:19.679 we've got which of course have Everton
+01:16:21.920 sat very much in the middle of the table
+01:16:24.159 you know to which you know the best
+01:16:26.080 response function Burnley I don't think
+01:16:27.600 would have even thought you know at the
+01:16:29.199 start of the season oh Everton look like
+01:16:30.880 they spent 20 million pounds more than
+01:16:32.400 they should we'd better do something I
+01:16:34.400 don't think that would even have been on
+01:16:35.440 the radar um but yeah that's kind of a
+01:16:38.800 reflection that springs to mind Um, more
+01:16:42.719 questions and comments.
+01:16:55.760 >> Can I can I add if there's no nobody
+01:16:57.760 else speaking?
+01:16:58.560 >> You can.
+01:17:00.080 >> So, I I I totally agree what you just
+01:17:02.239 said, James. Um the interesting question
+01:17:04.960 I think is is the decision point was
+01:17:07.600 when Everton decided to to uh pull the
+01:17:10.800 trigger and purchase more players. Um
+01:17:13.199 and I guess that was in the mid in the
+01:17:15.360 January transfer window.
+01:17:17.360 >> So so that was the point at which they
+01:17:19.520 were making an assessment of how likely
+01:17:21.520 are we to get relegated and given that
+01:17:23.840 they bounced very close to relegation
+01:17:26.159 the previous two seasons I believe they
+01:17:28.400 must have been pretty scared. They also
+01:17:30.560 had a new stadium in the pipeline which
+01:17:32.800 need financing. So I think that their
+01:17:35.520 calculation
+01:17:37.120 u was based on we simply cannot afford
+01:17:40.560 the risk of of relegation. We'll do
+01:17:44.159 whatever we possibly can never mind the
+01:17:46.320 penalties or the damages. We don't care.
+01:17:49.440 We have simply have to stay in the
+01:17:51.040 Premier League. And I I my I mean
+01:17:53.760 obviously I have no idea but that's my
+01:17:55.360 perception of the thought process that
+01:17:56.880 they must have gone through. it must
+01:17:58.400 have been near panic at that point and
+01:18:00.960 deciding that the the benefits outweigh
+01:18:03.840 the risks um that they that they went
+01:18:06.320 through. So I I think the point of the
+01:18:08.320 decision is important here. Prior to
+01:18:10.239 that in the early part of the season, I
+01:18:12.159 think they were probably in a watch and
+01:18:14.400 wait and see situation. Can we improve
+01:18:16.480 on the previous season or not? By by
+01:18:18.880 December they probably decided no, we
+01:18:20.719 can't. We're going to run close to the
+01:18:22.480 wire again. Let's pull the trigger.
+01:18:26.880 >> Yeah. I mean that that makes a point
+01:18:29.040 which is that we could run the
+01:18:30.239 simulation starting at the end of the
+01:18:32.640 January window.
+01:18:33.760 >> Yeah, I think I think that would be a
+01:18:35.440 better reflection of their decision
+01:18:37.120 process.
+01:18:40.800 >> Yeah, I I mean I think that would also
+01:18:42.719 be a question about you know um what
+01:18:48.159 uh what the what the meaning of
+01:18:50.480 breaching a three-year window by a
+01:18:54.159 certain amount actually means. And what
+01:18:57.280 to what to what period should you
+01:18:59.679 allocate this? I mean the the again the
+01:19:02.080 the the the the
+01:19:04.640 tribunal the commission um attributed
+01:19:07.280 this entirely to the to the final season
+01:19:10.159 but but in some sense the the overspend
+01:19:13.920 was it's a cumulative effect over three
+01:19:17.040 seasons. So presumably in some logically
+01:19:19.679 that overspend applies to each of the
+01:19:21.760 three seasons and should be divided
+01:19:23.840 amongst them. Um, and so, yeah, I I
+01:19:30.480 I'm not sure that the right the it's
+01:19:33.280 it's right to apply all of that 19.5
+01:19:36.000 million to just to just the final
+01:19:37.760 season.
+01:19:46.880 >> Oh, hey. I I just have one question,
+01:19:49.280 Stefan, I guess, for you. I'm just
+01:19:51.199 curious about you. You said it's you you
+01:19:53.120 have you can overspend 109
+01:19:56.960 million pounds something like that or
+01:19:58.719 105 million pounds over three seasons
+01:20:01.199 and that's
+01:20:03.360 uh true for
+01:20:05.760 >> all teams or it doesn't matter their
+01:20:09.199 their overall budget because that seems
+01:20:10.880 unfair right if if you you know if
+01:20:14.080 you're a poor team you know it's it's if
+01:20:16.880 you're a small team it's going to be
+01:20:19.360 less likely to overspend If you're a big
+01:20:22.719 team, it's going to be fairly easy. I
+01:20:24.239 mean, 90 million pound for Manchester
+01:20:25.840 City or Liverpool is just peanuts. I I
+01:20:28.800 think
+01:20:29.520 >> well
+01:20:31.040 I am on record as saying that I don't
+01:20:32.880 think there was anything very much fair
+01:20:34.640 about financial fair play but
+01:20:37.920 no I mean again the Thomas and I said
+01:20:41.840 you know we thought our paper in 2014 we
+01:20:44.560 think this is a mechanism for
+01:20:47.199 um oifying the system and preserving the
+01:20:49.520 dominance of of dominant clubs um and
+01:20:53.520 that's entirely consistent with that the
+01:20:56.080 limits and the squad rule similarly
+01:21:00.400 preserves that if you happen to if you
+01:21:02.400 enter the system as as the rich you're
+01:21:04.640 going to stay rich if you enter the
+01:21:06.640 system poor you're never going to get
+01:21:08.239 rich except toward some unless some
+01:21:11.600 bizarre probability you know some really
+01:21:14.560 extraordinary probability events
+01:21:16.480 >> unless you're Tottenham or Manchester
+01:21:18.239 United
+01:21:19.760 >> yeah this is this is and you know my
+01:21:24.640 view is you know the the clubs that are
+01:21:26.800 most adamant that that this system is
+01:21:29.040 important to maintain and and should is
+01:21:31.199 is is significant are Arsenal,
+01:21:33.120 Manchester United um and Liverpool and
+01:21:36.400 Tottenham because they are they are they
+01:21:39.120 are they are the established dominant
+01:21:40.960 teams and this will send their dominance
+01:21:43.760 and England becomes more and more like
+01:21:46.320 like Germany right the Bayern Munich we
+01:21:48.560 just have our own Bayern Munich we have
+01:21:50.719 four Bayern Munich not not one
+01:22:00.400 We got time for a couple more questions
+01:22:02.400 if anyone has anything they want to
+01:22:05.040 raise.
+01:22:25.360 which looks like it might be a no. In
+01:22:28.639 which case, uh thank you everybody. Uh
+01:22:31.360 thank you uh for your patience with my
+01:22:34.800 uh computer issues. Thank you Stefan for
+01:22:37.840 um
+01:22:40.000 helping me out there as well. Uh thank
+01:22:42.080 you my our co-authors Thomas and Carl
+01:22:44.800 who uh Thomas was here. I don't think
+01:22:46.400 Carl was here. uh and we do certainly
+01:22:48.480 invite any comments uh that you might
+01:22:50.400 have uh based on the talk uh via other
+01:22:53.440 mechanisms uh in the coming days. So
+01:22:55.360 please do uh get in touch. It will be
+01:22:57.440 great to hear from you. We will return
+01:23:02.000 next week. Yes, we will. We have Karina
+01:23:04.639 Asimova presenting risk attitudes among
+01:23:07.520 elite chess players in must-win
+01:23:09.520 situations this time next week on
+01:23:11.600 October the 23rd. And should you wish to
+01:23:14.159 present, there's still two free slots,
+01:23:15.840 October the 30th and November the 6th.
+01:23:18.239 So if you do wish to present, uh, please
+01:23:19.679 get in touch. But thank you everyone.
+01:23:22.480 See you all next week.
+01:23:24.800 >> Thanks everybody.
+01:23:25.440 >> Thank you so much. Have a nice week.
+01:23:28.400 >> Yeah. Thanks.
+01:23:31.600 >> You.
+01:23:33.600 Cheers, Richard.
+01:23:37.199 So what's going on with your computer
+01:23:38.800 then, James? What What the What's all
+01:23:40.800 that about?
+01:23:43.360 Do you know? I mean,
+01:23:45.760 >> it's never happened before and it
+01:23:46.880 happens now three times.
+01:23:50.639 >> Just is it just it's just freezing. But
+01:23:53.520 was the whole thing freezing or or was
+01:23:55.280 it just Teams that was freezing?
+01:23:56.800 >> Just went it just restarted. Just
+01:23:59.360 crashed and so I had to log in and
+01:24:02.480 reopen everything again. Um although it
+01:24:05.120 it does some kind of weird thing where
+01:24:06.719 it reopens most things but not
+01:24:08.480 everything.
+01:24:10.000 So, um,
+01:24:12.560 yeah, there you go. It's very annoying
+01:24:15.440 that it happened right now.
+01:24:17.040 >> We got there in the end. Yeah.
+01:24:18.880 >> Um, yeah. Uh, I think that was it went
+01:24:22.080 okay, didn't it? I think I think it uh
+01:24:24.080 >> I think so.
+01:24:24.639 >> Got a point across. Yeah,
+01:24:26.159 >> I think it was fine. Yeah. I mean, yeah.
+01:24:29.360 Um, I saw uh John Wilson was in the in
+01:24:34.000 the group, right? Did you see
+01:24:36.080 >> that's Rob Wilson, though? was the guy
+01:24:38.239 himself, I think. Unless it was him
+01:24:41.120 masquerading, I don't know.
+01:24:42.400 >> Yeah. Yeah. Exactly. He Sorry. Yeah.
+01:24:44.320 Yeah. Where? Yeah. The the Sorry. Yeah.
+01:24:47.120 The So, so he but he didn't say
+01:24:49.199 anything, but he was obviously, you
+01:24:50.800 know, I don't know whether the lawyers
+01:24:53.120 sent him along to have a look or whether
+01:24:54.639 they're going to
+01:24:56.639 think the appeal is still ongoing, isn't
+01:24:58.400 it? I mean, I don't think they they
+01:25:00.400 >> as far as I know. Yeah. I'm going to I'm
+01:25:02.719 going to send this over once I stick it
+01:25:04.159 on YouTube. I'll send it to Darren as
+01:25:05.600 well because he chats with the Everton
+01:25:08.000 legal team so get the latest uh on what
+01:25:11.760 what exactly is going on there. Um but
+01:25:14.159 we shall see.
+01:25:15.920 >> So um when when will it go up?
+01:25:19.040 >> I'll stick it up later on. I'll just do
+01:25:20.400 it straight away just so that we can get
+01:25:21.600 it out there quickly.
+01:25:23.120 >> Yeah. Very good. And um yeah, so we
+01:25:25.760 should um Yeah. Uh well, we should send
+01:25:28.880 an email about next steps.
+01:25:31.040 >> Next steps. Yeah, exactly. I I can try
+01:25:33.679 and stick in um try and stick in all
+01:25:36.400 these things into the paper as it stands
+01:25:38.159 on over leaf. Uh and then everyone else
+01:25:41.360 can refine move change to Thomas might
+01:25:44.560 have a better way of you know doing the
+01:25:46.320 simulations presenting the results. Carl
+01:25:48.080 might have as well. Um but once we've
+01:25:49.760 got placeholders so we can then
+01:25:52.159 >> just move move things around, can't we?
+01:25:54.000 So
+01:25:54.639 >> yeah, exactly.
+01:25:57.120 >> Perfect. Cheers Stephan. Have a good
+01:25:59.440 rest of your day. See you soon.
+01:26:00.960 >> Thank you. See you later. 7 I
